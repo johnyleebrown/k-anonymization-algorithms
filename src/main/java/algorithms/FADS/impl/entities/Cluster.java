@@ -1,4 +1,4 @@
-package entities;
+package algorithms.FADS.impl.entities;
 
 import java.util.List;
 import java.util.stream.Collectors;

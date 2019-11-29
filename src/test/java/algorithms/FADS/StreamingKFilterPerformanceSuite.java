@@ -1,7 +1,7 @@
-package algorithms.fads;
+package algorithms.FADS;
 
-import algorithms.fads.measures.RmseDistortion;
-import algorithms.fads.measures.RmseLatency;
+import algorithms.FADS.measures.RmseDistortion;
+import algorithms.FADS.measures.RmseLatency;
 import org.apache.commons.math3.distribution.NormalDistribution;
 import org.apache.commons.math3.distribution.UniformRealDistribution;
 

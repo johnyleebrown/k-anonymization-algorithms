@@ -1,4 +1,4 @@
-package algorithms.fads;
+package algorithms.FADS.impl;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -11,12 +11,12 @@ import java.util.Optional;
 import core.InputRecord;
 import core.OutputRecord;
 import core.StreamingKFilter;
-import entities.Cluster;
-import strategies.impl.DefaultFindKNearestNeighborsStrategy;
+import algorithms.FADS.impl.entities.Cluster;
+import algorithms.FADS.impl.strategies.impl.DefaultFindKNearestNeighborsStrategy;
 
-import static algorithms.fads.ConfigurationManager.DELAY_CONSTRAINT;
-import static algorithms.fads.ConfigurationManager.K;
-import static algorithms.fads.ConfigurationManager.REUSE_CONSTRAINT;
+import static algorithms.FADS.impl.ConfigurationManager.DELAY_CONSTRAINT;
+import static algorithms.FADS.impl.ConfigurationManager.K;
+import static algorithms.FADS.impl.ConfigurationManager.REUSE_CONSTRAINT;
 
 /**
  * This implementation is based on the paper "Fast clustering-based anonymization approaches with time constraints for data streams"

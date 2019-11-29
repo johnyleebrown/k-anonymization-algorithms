@@ -1,5 +1,6 @@
-package algorithms.fads;
+package algorithms.FADS;
 
+import algorithms.FADS.impl.FadsStreamingKFilter;
 import core.StreamingKFilter;
 
 public class CandidateFilterFactory {

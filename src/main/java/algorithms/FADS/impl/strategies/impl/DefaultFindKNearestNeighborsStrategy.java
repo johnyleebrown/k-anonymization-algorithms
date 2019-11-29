@@ -1,4 +1,4 @@
-package strategies.impl;
+package algorithms.FADS.impl.strategies.impl;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,7 +9,7 @@ import java.util.Queue;
 
 import core.InputRecord;
 
-import strategies.FindKNearestNeighborsStrategy;
+import algorithms.FADS.impl.strategies.FindKNearestNeighborsStrategy;
 
 public class DefaultFindKNearestNeighborsStrategy implements FindKNearestNeighborsStrategy
 {

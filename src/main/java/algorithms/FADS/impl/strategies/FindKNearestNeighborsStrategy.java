@@ -1,4 +1,4 @@
-package strategies;
+package algorithms.FADS.impl.strategies;
 
 import java.util.List;
 

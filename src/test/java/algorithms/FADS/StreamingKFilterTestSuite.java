@@ -1,4 +1,4 @@
-package algorithms.fads;
+package algorithms.FADS;
 
 import org.apache.commons.math3.distribution.NormalDistribution;
 import org.apache.commons.math3.distribution.PoissonDistribution;

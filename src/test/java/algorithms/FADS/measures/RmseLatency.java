@@ -1,10 +1,10 @@
-package algorithms.fads.measures;
+package algorithms.FADS.measures;
 
 import core.OutputRecord;
 
 import java.util.Collection;
 
-import static algorithms.fads.measures.RmseDistortion.squareDiff;
+import static algorithms.FADS.measures.RmseDistortion.squareDiff;
 
 /**
  * Defines a measure of latency using Root Mean Square Error.

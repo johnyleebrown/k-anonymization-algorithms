@@ -1,4 +1,4 @@
-package algorithms.fads.measures;
+package algorithms.FADS.measures;
 
 import core.OutputRecord;
 

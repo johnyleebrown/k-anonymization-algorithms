@@ -1,4 +1,4 @@
-package algorithms.fads;
+package algorithms.FADS.impl;
 
 public class ConfigurationManager
 {
